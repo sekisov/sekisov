@@ -1,7 +1,7 @@
 # :monkey:Welcome
 Learning C # and Game Development
 Proficient: Unity, C#, VR, Android
-# About me
+# :muscle:About me
 👋 My name is Vlad, I am 28 years old. I have been programming for about 4 years, trying different technologies. 
 I have been doing industrial development for 2 years, in particular C#.
 
