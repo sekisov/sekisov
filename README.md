@@ -2,7 +2,7 @@
 Learning C # and Game Development
 Proficient: Unity, C#, Android, iOS
 # :muscle:About me
-👋 My name is Vlad, I am 29 years old. I have been programming for about 4 years, trying different technologies. 
+👋 My name is Vlad, I am 33 years old. I have been programming for about 4 years, trying different technologies. 
 I have been doing industrial development for 2 years, in particular C#.
 
 🎓 I have experience in cross-platform development, creating mobile apps, and also I can create a responsive layout, create an MVC app and write a desktop app. 
